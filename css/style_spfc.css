@@ -1,0 +1,339 @@
+*{
+    padding: 0;
+    margin: 0; 
+    
+    }
+    
+    body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    }
+    
+    h1{
+    position: absolute;
+    color: white;
+    top: 6%;
+    margin-left: 9%;
+    font-size: 50px;
+    
+    }
+    
+    #seta_menu{
+    width: 9vw;
+    height: 7vh;
+    right: 92%;
+    top: 0%;
+    }
+    header{
+        position: absolute;
+    background-color: red ;
+    opacity: calc(0.3);   
+        width: 100vw;
+        height: 20vh;
+    }
+    
+    img{
+    width: 8vw;
+    height: 15vh;
+    margin-left: 90%;
+    margin-top: 1%;
+    position: absolute;
+    }
+    
+    #ceni{
+    width: 40vw;
+    height: 61vh;
+    position: center;
+    right: 55%;
+    top: 18%;
+    
+    }
+    
+    #escudo_menu{
+        width: 25vw;
+        height: 47vh;
+        position: center;
+        right: 18%;
+        top: 23%;
+    
+    }
+    
+    #barra_lateral{
+        width: 9.25vw;
+        height: 40vh;    
+        top: 57.65%;
+        right: 0%;
+        }
+    
+    #tabela_fundacao{
+    
+    width: 18vw;
+    height: 13vh;    
+    top: 84.70%;
+    right: 81.9%;
+    }    
+    
+    #tabela_titulos{
+        width: 18vw;
+        height: 13vh;    
+        top: 84.70%;
+        right: 63.80%;
+    }
+    
+    #tabela_estadio{
+        width: 18.1vw;
+        height: 13vh;    
+        top: 84.70%;
+        right: 45.60%;  
+    }
+    
+    #tabela_idolos{
+        width: 17.9vw;
+        height: 13vh;    
+        top: 84.70%;
+        right: 27.65%;
+    }
+    
+    #tabela_camisas{
+        width: 18.3vw;
+        height: 13vh;    
+        top: 84.70%;
+        right: 9.25%;
+    
+    }
+    
+    
+    #titulo_camisa{
+    right: 87.2%;
+    top: 0%;
+    }
+    
+    #home{
+    width: 11vw;
+    height: 9vh;
+    right: 0%;
+    top: 0%;
+    }
+    
+    #camisa_2005{
+    width: 20vw ;
+    height: 50vh;
+    top: 10%;
+    right: 70%;
+    }
+    
+    #text_c2005{
+    font-size: 30px;
+    top: 65%;
+    right: 72%;
+    
+    }
+    
+    #camisa_92{
+        width: 20vw ;
+        height: 49vh;
+        top: 10%;
+        right: 40%;
+    
+    }
+    
+    #text_c92{
+        font-size: 30px;
+        top: 65%;
+        right: 41.50%;
+        
+    }
+    
+    
+    #camisa_100{
+        width: 21vw ;
+        height: 49vh;
+        top: 10%;
+        right: 10%;
+    
+    }
+    
+    #text_c100{
+        font-size: 30px;
+        top: 65%;
+        right: 12.50%;    
+    }
+    
+    
+    #rodape_camisas{
+    width: 100vw;
+    height: 25vh; 
+    right: 0%;
+    top: 72%;   
+    }
+    
+    #img_morumbi{
+    width: 39vw; 
+    height: 87.90vh;   
+    right: 61%;
+    top: 10%;
+    }
+    
+    #titulo_estádio1{
+    
+    color: rgb(218,2,3);    
+    right: 23%;
+    top: 10%;
+    }
+    
+    #titulo_estádio2{
+    
+        color: rgb(218,2,3);    
+        right: 14.7%;
+        top: 85%;
+        
+        }
+    
+    #text_estadio{
+    
+        font-size: 22px;    
+        font-weight: normal;
+        text-wrap: wrap;
+        text-align: center;
+        margin-left: 40%;
+        top: 25%;
+    
+    }
+    
+    #titulo_estadio{
+        right: 87.4%;
+        top: 2%;
+    }
+    
+    #titulo_fundacao{
+        right: 84.2%;
+        top: 0%;
+    }
+    
+    #img_fundacao{
+        width: 37vw; 
+    height: 90.98vh;   
+    right: 62.8%;
+    top: 7%;
+        }
+    
+    #titulo_fundacao1{
+    right: 23.70%;
+    top: 10%;
+    color: rgb(218,2,3);    
+    font-size: 60px;
+    }    
+    
+    #text_fundacao{
+    font-size: 22px;    
+    font-weight: normal;
+    text-wrap: wrap;
+    text-align:left;
+    margin-left: 40%;
+    top: 25%;
+    }
+    
+    #img_escudoant{
+    width: 15vw;
+    height: 30vh ;
+    top: 56%;
+    right: 42.5%
+    }
+    
+    #img_escudonormal{
+        width: 19vw;
+        height: 19vw;
+        top: 46%;
+        right: 8.5%;
+        }
+    
+    #descri_antigo{
+        top: 90%;
+        right: 43.50%;
+        font-size: 25px; 
+    }
+    
+    #descri_normal{
+        top: 90%;
+        right: 13%;
+        font-size: 25px; 
+    }
+    
+    #titulo_idolos{
+        right: 88.4%;
+        top: 1.5%;
+    
+    }
+    
+    #fundo_idolos{
+     width: 100vw;   
+     height: 87.9vh;
+     right: 0%;
+     top: 10%;
+    }
+    
+    #img_idolos{
+        width: 39vw; 
+        height: 87.90vh;   
+        right: 61%;
+        top: 10%;
+    
+    }
+    
+    #text_idolos{
+        color: rgb(0, 0, 0);  
+        right: 52%;
+        top: 14%
+    
+              
+    }
+    
+    #escudo_idolos{
+        width: 19vw;
+        height: 19vw;
+        top: 52%;
+        right: 22.5%;
+        }
+    
+     #listagem_idolos{
+    color: rgb(218,2,3);
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    right: 16%;
+    top: 26%;
+     }   
+    
+     #fundo_titulos{
+        width: 100vw;   
+        height: 87.9vh;
+        right: 0%;
+        top: 10%;
+    
+     }
+    
+     #img_titulos{
+        width: 39vw; 
+        height: 87.90vh;   
+        right: 61%;
+        top: 10%; 
+     }
+    
+     #text_titulos{
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        font-size: 45px;
+        right: 45%;
+        top: 14%
+     }
+    
+     #listagem_titulos{
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    right: 8.50%;
+    top: 25%;
+     }

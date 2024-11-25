@@ -1,0 +1,326 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/*inicial santos*/
+#santos {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(to right, #a6a6a6, rgb(255, 255, 255));
+}
+
+#inicial_santos {
+  position: absolute;
+  bottom: 0;
+  background-color: black;
+  height: 10vh;
+  width: 100vw;
+  text-align: center;
+
+}
+
+.link_tela_santos {
+  color: white;
+  padding-left: 3vw;
+  font-size: 300%;
+
+}
+
+#escudo_inicial {
+  position: absolute;
+  height: 50vh;
+  margin-top: 30vh;
+  margin-left: 20vw;
+
+}
+
+#mascote {
+  position: absolute;
+  height: 70vh;
+  margin-left: 75vw;
+  margin-top: 10vh;
+
+
+}
+
+#titulo_santos {
+  position: absolute;
+  font-size: 900%;
+  margin-top: 3vh;
+  margin-left: 8vw;
+}
+
+#voltar {
+  position: absolute;
+  margin-left: 91vw;
+  height: 10vh;
+  margin-top: 2vh;
+}
+
+/*geral*/
+
+body {
+  background-color: #5c5c5c;
+}
+
+footer {
+  position: absolute;
+  color: #d9d9d9;
+  background-color: #d9d9d9;
+  width: 100%;
+  height: 10vh;
+  bottom: 0;
+}
+
+.relampago {
+  position: absolute;
+  height: 9vh;
+  width: 10vw;
+  margin-left: 88.74vw;
+  margin-top: 1vh;
+}
+
+header {
+  background-color: #d9d9d9;
+  width: 100%;
+  height: 10vh;
+}
+
+.cabecalho {
+  position: absolute;
+  font-size: 499%;
+  margin-left: 2vw;
+}
+
+.home {
+  position: absolute;
+  height: 9vh;
+  margin-left: 94vw;
+  margin-top: 1vh;
+}
+
+/*Camisetas*/
+
+#camisetas {
+  position: absolute;
+  color: #ffcb11;
+  margin-left: 3vw;
+  font-size: 300%;
+  margin-top: 4vh;
+}
+
+
+#camiseta_branca {
+  position: absolute;
+  margin-left: 80vw;
+  height: 30vh;
+  margin-top: 45vh;
+  border: 3px solid black;
+}
+
+#camiseta_semp {
+  position: absolute;
+  margin-left: 65vw;
+  height: 30vh;
+  margin-top: 45vh;
+  border: 3px solid black;
+}
+
+#camiseta_azul {
+  position: absolute;
+  margin-left: 80vw;
+  height: 30vh;
+  border: 3px solid black;
+  margin-top: 10vh;
+}
+
+#camiseta_panasonic {
+  position: absolute;
+  margin-left: 65vw;
+  height: 30vh;
+  border: 3px solid black;
+  margin-top: 10vh;
+}
+
+#lista_camisetas {
+  position: absolute;
+  font-size: 250%;
+  color: white;
+  margin-top: 20vh;
+  text-align: justify;
+  margin-left: 7vw;
+
+}
+
+/*historia*/
+#historia_escudo {
+  position: absolute;
+  height: 50vh;
+  margin-left: 70vw;
+  margin-top: 15vh;
+
+}
+
+p {
+  position: absolute;
+  width: 55vw;
+  font-size: 200%;
+  margin-left: 2vw;
+  margin-top: 6vh;
+  color: white;
+
+}
+
+/*revelações*/
+
+#rodrygo {
+  position: absolute;
+  height: 22vh;
+  margin-top: 48vh;
+  margin-left: 80vw;
+  border: 3px solid black;
+}
+
+#rayo {
+  position: absolute;
+  margin-left: 25vw;
+  margin-top: 2vh;
+  height: 10vh;
+}
+
+#neymar {
+  position: absolute;
+  height: 50vh;
+  margin-left: 62.9vw;
+  margin-top: 20vh;
+  border: 3px solid black;
+}
+
+#pele {
+  position: absolute;
+  height: 25vh;
+  margin-top: 20vh;
+  margin-left: 80vw;
+  border: 3px solid black;
+}
+
+#um_subtitulo {
+  position: absolute;
+  color: #ffcb11;
+  margin-left: 3vw;
+  font-size: 300%;
+  margin-top: 2vh;
+}
+
+#text_revelações {
+  position: absolute;
+  width: 55vw;
+  font-size: 200%;
+  margin-left: 2vw;
+  margin-top: 11vh;
+  color: white;
+}
+
+#dois_subtitulo {
+  position: absolute;
+  color: #ffcb11;
+  margin-left: 3vw;
+  font-size: 300%;
+  margin-top: 32vh;
+}
+
+#lista_revelações {
+  position: absolute;
+  font-size: 250%;
+  color: white;
+  margin-top: 40vh;
+  text-align: justify;
+  margin-left: 7vw;
+}
+
+/*titulos*/
+
+#lista_titulos {
+  position: absolute;
+  font-size: 220%;
+  width: 55vw;
+  color: white;
+  margin-top: 8vh;
+  text-align: justify;
+  margin-left: 6vw;
+}
+
+#ney_ganso {
+  position: absolute;
+  margin-left: 70vw;
+  height: 40vh;
+  margin-top: 20vh;
+  border: 3px solid black;
+}
+
+/*estadio*/
+
+#vila_festa {
+  position: absolute;
+  height: 50vh;
+  margin-top: 25vh;
+  margin-left: 15vw;
+  border: 3px solid black;
+}
+
+#vila {
+  position: absolute;
+  height: 50vh;
+  margin-left: 50vw;
+  margin-top: 25vh;
+  border: 3px solid black;
+}
+
+#vila_belmiro {
+  position: absolute;
+  color: #ffcb11;
+  font-size: 250%;
+  margin-top: 10vh;
+  margin-left: 42vw;
+}
+
+#estadio {
+  position: absolute;
+  font-size: 300%;
+  margin-top: 2vh;
+  margin-left: 32vw;
+}
+
+@media screen and (max-width:1280px) {
+
+  /*titulos*/
+  #ney_ganso {
+    margin-left: 65vw;
+  }
+
+  /*geral*/
+  .cabecalho {
+    font-size: 450%;
+  }
+
+  .home {
+    height: 8vh;
+  }
+
+  /*estadio*/
+  #vila_festa {
+    margin-left: 9.70vw;
+  }
+
+  /*revelações*/
+  #neymar {
+    margin-left: 61vw;
+
+  }
+
+  #rayo {
+    margin-left: 30vw;
+    height: 9vh;
+  }
+}
